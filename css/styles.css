@@ -97,6 +97,10 @@ h3 {
   padding: 10px 20px 10px 20px;
 }
 
+.btn:hover {
+  background: #99CC00;
+}
+
 
 /* Third Section */
 
